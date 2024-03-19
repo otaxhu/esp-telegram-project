@@ -1,0 +1,6 @@
+[submodule "components/nvs-dotenv"]
+	path = components/nvs-dotenv
+	url = https://github.com/igrr/nvs-dotenv
+[submodule "components/esp-dht-driver"]
+	path = components/esp-dht-driver
+	url = https://github.com/otaxhu/esp-dht-driver
